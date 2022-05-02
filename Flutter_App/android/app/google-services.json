@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "288186127358",
+    "project_id": "memory-tagz",
+    "storage_bucket": "memory-tagz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288186127358:android:a3ff76bcb0c31b00f7e6af",
+        "android_client_info": {
+          "package_name": "com.memory_tagz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288186127358-3e704vsq32f4ebv4hcrotii7cn69j6to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuwsQ9wsu75XgPUcMEoXDJttXryW79yWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288186127358-3e704vsq32f4ebv4hcrotii7cn69j6to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288186127358:android:e9cb365a5367f69bf7e6af",
+        "android_client_info": {
+          "package_name": "com.stickymemory.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288186127358-3e704vsq32f4ebv4hcrotii7cn69j6to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuwsQ9wsu75XgPUcMEoXDJttXryW79yWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288186127358-3e704vsq32f4ebv4hcrotii7cn69j6to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
