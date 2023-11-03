@@ -23,6 +23,3 @@ Memory App demonstrates key features and the idea of `Memory Tagz`:
 + Our app will take the responsibility to remind you of your things
 
 + Your labelled objects will be a part of a quiz model game inspired to improve your memory power.
-
-
-#
